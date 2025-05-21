@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on **AI for social good & real-time applications**
 - 💬 Ask me about **Python, ML, CV, DL**
 - 📫 How to reach me: `zainabniyamat7@gmail.com`
-- 👩‍💻 Portfolio: [ZainabKhan9](https://github.com/ZainabKhan9)
-- 🧠 Fun fact: I love learning AI and building user-friendly ML apps!
 
 ---
 
@@ -29,7 +27,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-FFB6C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
