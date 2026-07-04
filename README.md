@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <em>Final-year B.Tech CSE (AI & ML) · RCOEM Nagpur · Building AI for the real world</em>
+  <em>Recent Graduate B.Tech CSE (AI & ML) · RCOEM Nagpur · Building AI for the real world</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Final-year B.Tech** in Computer Science & Engineering (AI & ML) at **Shri Ramdeobaba College of Engineering and Management, Nagpur**
+- 🎓 **Graduate** in Computer Science & Engineering (AI & ML) at **Shri Ramdeobaba College of Engineering and Management, Nagpur**
 - 🏢 **AI, Analytics & Automation Intern** at **Acrebook Realty** (US-based) — building AI agents, automation pipelines & analytics dashboards
 - 🛰️ **Former Computer Vision Intern** at **MRSAC** — road damage detection using YOLOv8 on 5000+ real-world images
 - 📄 **Research Paper Presenter** — Real-Time Traffic Congestion Detection at **ICAISC 2025**
