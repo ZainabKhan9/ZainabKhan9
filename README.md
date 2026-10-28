@@ -1,38 +1,48 @@
-<h1 align="center">Hi, I'm Zainab Khan 👋</h1>
+# Hi, I'm Zainab Khan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/? />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Building+LLM+Applications+%26+RAG+Workflows;AI+Agents+%7C+Automation+%7C+Data+Analytics&center=true&width=600&height=45" />
 </p>
 
 <p align="center">
-  <em>Recent Graduate B.Tech CSE (AI & ML) · RCOEM Nagpur · Building AI for the real world</em>
+  <em>B.Tech CSE (AI Specialization) · RCOEM Nagpur · Building AI for the real world</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Graduate** in Computer Science & Engineering (AI & ML) at **Shri Ramdeobaba College of Engineering and Management, Nagpur**
-- 🏢 **AI, Analytics & Automation Intern** at **Acrebook Realty** (US-based) — building AI agents, automation pipelines & analytics dashboards
-- 🛰️ **Former Computer Vision Intern** at **MRSAC** — road damage detection using YOLOv8 on 5000+ real-world images
-- 📄 **Research Paper Presenter** — Real-Time Traffic Congestion Detection at **ICAISC 2025**
-- 💡 **Utility Patent Published** — Unauthorized Parking Violation Detection System
-- 💬 Ask me about: `Python` `Machine Learning` `Computer Vision` `AI Agents` `Automation` `Data Analytics`
+- 🎓 **B.Tech Graduate in Computer Science & Engineering (AI Specialization)** at **Shri Ramdeobaba College of Engineering and Management, Nagpur** — GPA: 9.53/10
+- 🤖 **AI Engineer** at **Agrati Tech Labs** — building LLM applications, RAG workflows, APIs, and model evaluation pipelines
+- 🏢 **Former Applied AI Engineer** at **Acrebook Real Estate Services** — built AI agents, voice assistants, and automation workflows that reduced manual effort by up to 90%
+- 🛰️ **Former Computer Vision & Geospatial Intern** at **MRSAC** — developed YOLOv8-based road damage detection with 90%+ accuracy on 5,000+ images
+- 📄 **Research & Innovation:** Traffic congestion detection project and two patents related to unauthorized parking detection
+- 💬 Ask me about: `Python` `Machine Learning` `Generative AI` `RAG` `AI Agents` `Automation` `Data Analytics`
 - 📫 Reach me: **zainabniyamat7@gmail.com**
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 AI, Analytics & Automation Intern — Acrebook Realty *(Current)*
-- 🤖 Built AI voice & chat agents using **ElevenLabs** for automated client interactions
-- ⚙️ Automated business workflows using **Make.com** and REST APIs
-- 📊 Developed analytics dashboards in **Zoho Analytics**; integrated **AppFolio** reports with AI-driven workflows
-- 🛠️ Built custom applications using **Zoho Creator**, significantly reducing manual effort
+### 🤖 AI Engineer — Agrati Tech Labs *(Oct 2026 – Present)*
 
-### 🛰️ Computer Vision Intern — MRSAC *(Maharashtra Remote Sensing Application Centre)*
-- 🛣️ Developed road damage detection system using **YOLOv8** on 5000+ annotated road images
-- 🗺️ Integrated geospatial data for model evaluation; achieved high detection accuracy on real-world datasets
+- 🧠 Building AI features for client-facing and core products, including **LLM applications and Retrieval-Augmented Generation (RAG) workflows**.
+- 🔌 Developing APIs and backend services to connect AI models with front-end applications.
+- 📊 Benchmarking AI models across **accuracy, latency, cost, and reliability**.
+- 🔍 Implementing logging and evaluation workflows to monitor AI quality in production.
+
+### 🏢 Applied AI Engineer — Acrebook Real Estate Services *(Dec 2025 – Oct 2026)*
+
+- 🤖 Built AI agents and LLM-powered voice assistants using **ElevenLabs and generative AI APIs**, automating CRM interactions across leasing, maintenance, and support workflows and reducing manual call handling by approximately **40%**.
+- 📈 Developed an automated daily reporting pipeline using **AppFolio property data and AI-powered portfolio digests**, reducing manual reporting effort by approximately **80%**.
+- ⚙️ Engineered documentation and knowledge-synchronization workflows, reducing manual data maintenance by approximately **90%**.
+- 🔗 Integrated third-party REST APIs and automation platforms to streamline client outreach, reducing manual tenant follow-ups by approximately **85%**.
+
+### 🛰️ Computer Vision & Geospatial Intern — MRSAC
+*Maharashtra Remote Sensing Application Centre | Jun 2025 – Aug 2025*
+
+- 🛣️ Developed a **YOLOv8-based road damage detection system** achieving 90%+ accuracy across 5,000+ images.
+- 🗺️ Integrated geospatial data to improve defect localization by approximately **30%**, supporting government infrastructure planning.
 
 ---
 
@@ -40,10 +50,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🚦 **[TraffixAI](#)** | Real-time traffic congestion detection & signal optimization | YOLOv5 · OpenCV · ML |
-| 📈 **[ArthaSutra-ML](#)** | Budget forecasting & financial analytics platform for India | RNN · LSTM · Dash · DataViz |
-| 🛣️ **[Road Damage Detection](#)** | CV solution for automated road defect detection & analysis | YOLOv8 · Computer Vision · GeoSpatial |
-| 🤖 **[AI Agent Automation Platform](#)** | Voice/chatbot agents integrated with real-time business workflows | LLM · Agents · Make.com · ElevenLabs |
+| 🚦 **[TraffixAI](#)** | Real-time traffic signal optimization, improving timing efficiency by 30% and traffic flow by 25% | YOLOv5 · OpenCV · Scikit-learn |
+| 📈 **[ArthaSutra-ML](#)** | Financial analytics dashboard with 10+ visualizations and LSTM-based forecasting that improved quarterly forecast accuracy by 20% | Python · LSTM · Dash · Pandas |
+| 🎙️ **[VoxaBank](#)** | AI-powered voice banking assistant with voice biometric verification, SMS-based multi-factor authentication, and NLP-based intent recognition | Python · Flask · Twilio · Scikit-learn |
+| 🛣️ **Road Damage Detection** | Automated road defect detection and geospatial localization across 5,000+ images | YOLOv8 · Computer Vision · Geospatial Data |
 
 ---
 
@@ -109,10 +119,10 @@
 
 ## 🏆 Achievements
 
-- 📄 **Research Paper Presentation** — Real-Time Traffic Congestion Detection at **ICAISC 2025**
-- 💡 **Utility Patent Published** — Unauthorized Parking Violation Detection System
-- 🎯 **Top 10% Team Finish** — AMUHACKS 2025 (300+ participants)
-- 📜 **NPTEL Certification** — Introduction to Machine Learning, IIT Madras
+- 💡 **Two Patents:** Published utility patent for RFID-based unauthorized parking detection and registered design for an IoT vehicle detection device.
+- 🎯 **AMUHACKS 2025 Finalist** — Top 10% among 300+ teams.
+- 📜 **NPTEL Certification** — Introduction to Machine Learning, IIT Madras.
+- 📜 **NPTEL Certification** — Generative Adversarial Networks (GANs).
 
 ---
 
@@ -130,7 +140,7 @@
 ---
 
 <p align="center">
-  <em>⭐ Always interested in solving real-world problems using AI, Automation, and Data-Driven Systems.</em>
+  <em>⭐ Building practical AI solutions that combine intelligent automation, LLM applications, and data-driven decision-making.</em>
 </p>
 
 <p align="center">
