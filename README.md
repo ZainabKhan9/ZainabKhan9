@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zainab Khan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Engineer;Computer+Vision+Specialist;Automation+%26+Agentic+AI+Builder;Open+Source+Contributor&center=true&width=500&height=40&color=534AB7" />
+  <img src="https://readme-typing-svg.herokuapp.com/? />
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 - 🛰️ **Former Computer Vision Intern** at **MRSAC** — road damage detection using YOLOv8 on 5000+ real-world images
 - 📄 **Research Paper Presenter** — Real-Time Traffic Congestion Detection at **ICAISC 2025**
 - 💡 **Utility Patent Published** — Unauthorized Parking Violation Detection System
-- 🏆 **Top 10% Finish** at AMUHACKS 2025 (300+ participants)
 - 💬 Ask me about: `Python` `Machine Learning` `Computer Vision` `AI Agents` `Automation` `Data Analytics`
 - 📫 Reach me: **zainabniyamat7@gmail.com**
 
